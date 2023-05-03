@@ -13,3 +13,32 @@ switch (s)
     case "/": res = Dev(A, B); break;
 }
 Console.WriteLine($"{A} {s} {B} = {res}");
+
+int Plus(int x,int y)
+{
+    return x + y;
+}
+
+
+int Minus(int x,int y)
+{
+    return x - y;
+}
+
+
+int Multy(int x,int y)
+{
+    return x * y;
+}
+
+
+double Dev(int x,int y)
+{
+    return (x * 1.0) / (y * 1.0);
+}
+void Input(ref int x)
+{
+    x = 0;
+    int.TryParse(Console.ReadLine(), out x);
+}
+
