@@ -13,3 +13,8 @@ switch (s)
     case "/": res = Dev(A, B); break;
 }
 Console.WriteLine($"{A} {s} {B} = {res}");
+
+double Div(int x, int y)
+{
+    return (x * 1.0) / (1.0 * y);
+}
