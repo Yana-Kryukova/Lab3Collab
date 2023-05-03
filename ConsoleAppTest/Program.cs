@@ -31,3 +31,8 @@ int Multy(int x,int y)
     return x * y;
 }
 
+
+double Dev(int x,int y)
+{
+    return (x * 1.0) / (y * 1.0);
+}
