@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-int A = 0, B = 0;
+﻿int A = 0, B = 0;
 double res = 0;
 string s = "";
 Console.WriteLine("Enter A, B, +, -, *, or /");
@@ -25,5 +23,11 @@ void Input(ref int x)
 int Minus(int x,int y)
 {
     return x - y;
+}
+
+
+int Multy(int x,int y)
+{
+    return x * y;
 }
 
