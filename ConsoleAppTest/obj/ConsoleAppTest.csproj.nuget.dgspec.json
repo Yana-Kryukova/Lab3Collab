@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sony\\Desktop\\LearningCSharp\\Yana-Kryukova\\ConsoleAppTest\\ConsoleAppTest.csproj": {}
+    "C:\\Users\\Sony\\Desktop\\LearningCSharp\\Kryukova-Yana\\Lab3Collab\\ConsoleAppTest\\ConsoleAppTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sony\\Desktop\\LearningCSharp\\Yana-Kryukova\\ConsoleAppTest\\ConsoleAppTest.csproj": {
+    "C:\\Users\\Sony\\Desktop\\LearningCSharp\\Kryukova-Yana\\Lab3Collab\\ConsoleAppTest\\ConsoleAppTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sony\\Desktop\\LearningCSharp\\Yana-Kryukova\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "projectUniqueName": "C:\\Users\\Sony\\Desktop\\LearningCSharp\\Kryukova-Yana\\Lab3Collab\\ConsoleAppTest\\ConsoleAppTest.csproj",
         "projectName": "ConsoleAppTest",
-        "projectPath": "C:\\Users\\Sony\\Desktop\\LearningCSharp\\Yana-Kryukova\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "projectPath": "C:\\Users\\Sony\\Desktop\\LearningCSharp\\Kryukova-Yana\\Lab3Collab\\ConsoleAppTest\\ConsoleAppTest.csproj",
         "packagesPath": "C:\\Users\\Sony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sony\\Desktop\\LearningCSharp\\Yana-Kryukova\\ConsoleAppTest\\obj\\",
+        "outputPath": "C:\\Users\\Sony\\Desktop\\LearningCSharp\\Kryukova-Yana\\Lab3Collab\\ConsoleAppTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

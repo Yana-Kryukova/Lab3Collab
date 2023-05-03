@@ -1,4 +1,6 @@
-﻿int A = 0, B = 0;
+﻿using System.Security.Cryptography.X509Certificates;
+
+int A = 0, B = 0;
 double res = 0;
 string s = "";
 Console.WriteLine("Enter A, B, +, -, *, or /");
@@ -13,3 +15,9 @@ switch (s)
     case "/": res = Dev(A, B); break;
 }
 Console.WriteLine($"{A} {s} {B} = {res}");
+void Input(ref int x)
+{
+    x = 0;
+    int.TryParse(Console.ReadLine(), out x);
+}
+
