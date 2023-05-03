@@ -21,3 +21,9 @@ void Input(ref int x)
     int.TryParse(Console.ReadLine(), out x);
 }
 
+
+int Minus(int x,int y)
+{
+    return x - y;
+}
+
