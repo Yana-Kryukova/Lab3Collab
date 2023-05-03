@@ -15,9 +15,8 @@ switch (s)
     case "/": res = Dev(A, B); break;
 }
 Console.WriteLine($"{A} {s} {B} = {res}");
-void Input(ref int x)
+int Plus(int x,int y)
 {
-    x = 0;
-    int.TryParse(Console.ReadLine(), out x);
+    return x + y;
 }
 
