@@ -13,3 +13,9 @@ switch (s)
     case "/": res = Dev(A, B); break;
 }
 Console.WriteLine($"{A} {s} {B} = {res}");
+
+int Minus(int x,int y)
+{
+    return x - y;
+}
+
