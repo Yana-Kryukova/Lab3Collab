@@ -15,7 +15,7 @@ switch (s)
 Console.WriteLine($"{A} {s} {B} = {res}");
 
 int Multy(int x,int y)
-{  
-
+{
+    return x * y;
 }
 
