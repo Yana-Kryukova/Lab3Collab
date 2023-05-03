@@ -36,3 +36,9 @@ double Dev(int x,int y)
 {
     return (x * 1.0) / (y * 1.0);
 }
+void Input(ref int x)
+{
+    x = 0;
+    int.TryParse(Console.ReadLine(), out x);
+}
+
